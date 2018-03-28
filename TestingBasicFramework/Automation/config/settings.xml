@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+    <setting name="chromedriverlocation" value = "C:\chromedriver\chromedriver.exe"/>
+    <setting name="timeout" value="5"/>
+    <setting name="maxattempts" value="20"/>
+    <setting name="browsertype" value="headed"/>
+    <setting name="environment" value="google"/>
+    <setting name="closebrowser" value="false"/>
+</settings>
